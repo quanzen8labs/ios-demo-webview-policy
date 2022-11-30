@@ -13,6 +13,7 @@
 		FA6F0866292F623F007AAC99 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA6F0864292F623F007AAC99 /* Main.storyboard */; };
 		FA6F0868292F6240007AAC99 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA6F0867292F6240007AAC99 /* Assets.xcassets */; };
 		FA6F086B292F6240007AAC99 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA6F0869292F6240007AAC99 /* LaunchScreen.storyboard */; };
+		FA6F0873292F6343007AAC99 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = FA6F0872292F6343007AAC99 /* index.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FA6F0867292F6240007AAC99 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA6F086A292F6240007AAC99 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA6F086C292F6240007AAC99 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA6F0872292F6343007AAC99 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		FA6F085D292F623F007AAC99 /* DemoWebKit */ = {
 			isa = PBXGroup;
 			children = (
+				FA6F0872292F6343007AAC99 /* index.html */,
 				FA6F085E292F623F007AAC99 /* AppDelegate.swift */,
 				FA6F0860292F623F007AAC99 /* SceneDelegate.swift */,
 				FA6F0862292F623F007AAC99 /* ViewController.swift */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA6F086B292F6240007AAC99 /* LaunchScreen.storyboard in Resources */,
+				FA6F0873292F6343007AAC99 /* index.html in Resources */,
 				FA6F0868292F6240007AAC99 /* Assets.xcassets in Resources */,
 				FA6F0866292F623F007AAC99 /* Main.storyboard in Resources */,
 			);
